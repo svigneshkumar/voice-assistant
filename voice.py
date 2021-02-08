@@ -16,9 +16,9 @@ from gtts import gTTS # google text to speech
 import random
 from time import ctime # get time details
 import webbrowser # open browser
-import yfinance as yf # to fetch financial data
-import ssl
-import certifi
+#import yfinance as yf # to fetch financial data
+#import ssl
+#import certifi
 import time
 import os # to remove created audio files
 
